@@ -53,7 +53,7 @@ public class Main {
         System.out.println("Всего работников в компании - "+amountOfWorkers+" человек.");
         amountOfWorkers=amountOfWorkers+64;
         var totalWorkingTime=amountOfWorkers*8;
-        System.out.println("Если в компании работает "+amountOfWorkers+" человек, то всего "+totalWorkingTime+" часов работы может быть поделено между сотрудниками");
+        System.out.println("Если в компании работает "+amountOfWorkers+" человек, то всего "+totalWorkingTime+" часов работы может быть поделено между сотрудниками.");
 
 
 
